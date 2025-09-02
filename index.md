@@ -15,7 +15,6 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 - I'm glad we get to learn how to utilize Linux.
 - I like that this is hopefully an easy class.
 
-  <code style = "color: fuchisa” >#Mithula’s First CS Homework</code>
 
 ```markdown
 Syntax highlighted code block
